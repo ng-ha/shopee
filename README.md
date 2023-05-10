@@ -8,7 +8,7 @@
 
 ### Features :computer:
 
-A responsive website clone with plain HTML/CSS, works nicely on all device 📱 :desktop_computer:
+A responsive website clone with plain HTML/CSS, works nicely on all devices 📱 :desktop_computer:
 
 ### Technologies ✨
 
